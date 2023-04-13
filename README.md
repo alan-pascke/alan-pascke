@@ -23,7 +23,7 @@ Sou um estudante te sistemas de informação, estou no ultimo ano da faculdade.
 
 ## Outras seções comuns em perfis do GitHub
 
-👩‍💻 Trabalho atualmente com estagiario na UTFPR
+👩‍💻 Trabalho atualmente como estagiario na UTFPR
 
 🧠 Estou aprendendo 
 
