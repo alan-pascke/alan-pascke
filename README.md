@@ -28,7 +28,7 @@ Sou um estudante te sistemas de informação, estou no ultimo ano da faculdade.
 🧠 Estou aprendendo 
 
   [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
-
+  [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 
  
