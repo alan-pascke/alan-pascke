@@ -5,7 +5,7 @@
 
 
 ## 🚀 Sobre mim
-Sou um estudante te sistemas de informação, estou no ultimo ano da faculdade. 
+Sou graduado em Sistema de informação 
 
 
 ## 🛠 Habilidades
