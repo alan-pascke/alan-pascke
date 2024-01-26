@@ -20,7 +20,7 @@
 
 ## Outras seções comuns em perfis do GitHub
 
-👩‍💻 Trabalho atualmente como estagiario na UTFPR
+👩‍💻 Trabalho atualmente como dev fullstack na empresa CERNN
 
 🧠 Estou aprendendo 
 
