@@ -4,9 +4,6 @@
 
 
 
-## 🚀 Sobre mim
-Sou graduado em Sistema de informação 
-
 
 ## 🛠 Habilidades
 
