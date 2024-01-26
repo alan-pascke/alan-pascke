@@ -11,7 +11,7 @@ Sou um estudante te sistemas de informação, estou no ultimo ano da faculdade.
 ## 🛠 Habilidades
 
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,next,bootstrap,tailwindcss,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,next,bootstrap,tailwindcss,firebase,node)](https://skillicons.dev)
 
 
 📫 Entre em contato comigo:
@@ -27,7 +27,6 @@ Sou um estudante te sistemas de informação, estou no ultimo ano da faculdade.
 
 🧠 Estou aprendendo 
 
-  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 
