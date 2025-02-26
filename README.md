@@ -4,7 +4,8 @@
 # Olá, eu meu nome é Alan! 👋
 #### Bem vindo ao meu repositório!
 
-
+<div align="center">
+ 
 <div>
 <a href="https://github.com/alan-pascke">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-pascke&layout=compact&langs_count=7&theme=dracula"/>
@@ -32,6 +33,10 @@
 🧠 Estou aprendendo 
 
   [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+
+ 
+</div>
+
 
 
  
