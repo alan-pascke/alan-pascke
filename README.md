@@ -28,11 +28,8 @@
 
 ## Outras seções comuns em perfis do GitHub
 
-👩‍💻 Trabalho atualmente como dev fullstack na empresa CERNN
+👩‍💻 Trabalho atualmente como dev fullstack na RSPNEUS
 
-🧠 Estou aprendendo 
-
-  [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
  
 </div>
