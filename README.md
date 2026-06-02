@@ -16,7 +16,7 @@
 ## 🛠 Habilidades
 
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,next,bootstrap,tailwindcss,firebase,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,next,tailwindcss,firebase,nodejs)](https://skillicons.dev)
 
 
 📫 Entre em contato comigo:
