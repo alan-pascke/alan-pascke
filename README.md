@@ -5,7 +5,6 @@
 #### Bem vindo ao meu repositório!
 
 <div align="center">
- 
 <div>
 <a href="https://github.com/alan-pascke">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alan-pascke&layout=compact&langs_count=7&theme=dracula"/>
@@ -16,7 +15,7 @@
 ## 🛠 Habilidades
 
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,next,tailwindcss,firebase,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,next,tailwindcss,mongo,nodejs,aws,elixir)](https://skillicons.dev)
 
 
 📫 Entre em contato comigo:
